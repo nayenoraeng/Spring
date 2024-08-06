@@ -7,6 +7,7 @@ public class Hello {
 	private Printer printer;
 	
 	
+	
 	public Hello(String name, String nickname, Printer printer)
 	{
 		super();
@@ -15,6 +16,8 @@ public class Hello {
 		this.printer = printer;
 	}
 	
+	public Hello(){}
+
 	public void setName(String name)
 	{
 		this.name = name;
