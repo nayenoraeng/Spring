@@ -3,7 +3,6 @@ package com.study.spring;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-
 public class HelloBeanTest {
 
 	public static void main(String[] args)
